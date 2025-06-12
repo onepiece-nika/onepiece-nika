@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onepiece-nika
+- 👋 Hi, I’m @onepiece-nika-agus
 - 👀 I’m interested in ... only python and blockchain
 - 🌱 I’m currently learning ... math and programing
 - 💞️ I’m looking to collaborate on ...
